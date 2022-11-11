@@ -15,7 +15,7 @@ def accelerate_conversion(image, width, height, ascii_coeff, step):
 
 
 class ArtConverter:
-    def __init__(self, path='video/test.mp4', font_size=12):
+    def __init__(self, path='video/albert.mp4', font_size=12):
         pg.init()
         self.path = path
         self.capture = cv2.VideoCapture(path)
