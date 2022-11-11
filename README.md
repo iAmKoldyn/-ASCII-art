@@ -1,4 +1,4 @@
-Convert video or photo to asсii art or pixel art
+Преобразуйте ваши фото и видео материалы в пиксели при помощи таблицы `ascii`
 
 press the "s" key - take a screenshot
 
